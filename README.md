@@ -1,6 +1,2 @@
-cm_12
-            Philz_touch_cwm6_cn 最新cm12分支源代码汉化 
----------------       Powered by 格桑花给我的       ----------------
--- ----------微博：http://weibo.com/gesangtome
--- -------------------------QQ:252761878
-# Philz_touch-cwm6_cn_cm12
+# CM-12.1源码自带recovery工具，仅作汉化处理，未经测试。如果大家发现问题，欢迎给我反馈！
+Powered by gesangtome
